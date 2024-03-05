@@ -2,6 +2,8 @@
   box-sizing: border-box;
 }
 
+
+
 body {
   margin: 0;
   height: 200vh;
@@ -14,6 +16,8 @@ body {
   flex-direction: row;
   width: 100%;
   position:fixed;
+  top: 0;
+  font-family: lato;
 }
 
 a {
@@ -21,6 +25,7 @@ a {
   display: flex;
   flex-direction: row;
   align-items: center;
+  color: whitesmoke;
 
 }
 
